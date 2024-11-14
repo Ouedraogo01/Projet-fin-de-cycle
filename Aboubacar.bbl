@@ -1,0 +1,166 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{nty/global//global/global}
+  \entry{noauthor_diarrhee_2018}{article}{}
+    \list{language}{1}{%
+      {fr}%
+    }
+    \field{labeltitlesource}{shorttitle}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \verb{doi}
+    \verb 10.1016/j.jpp.2018.01.002
+    \endverb
+    \field{issn}{09877983}
+    \field{number}{1}
+    \field{pages}{50\bibrangedash 51}
+    \field{shorttitle}{Diarrhée aiguë du nourrisson et de l’enfant}
+    \field{title}{Diarrhée aiguë du nourrisson et de l’enfant :
+  recommandations d’experts}
+    \verb{url}
+    \verb https://linkinghub.elsevier.com/retrieve/pii/S0987798318300057
+    \endverb
+    \field{volume}{31}
+    \verb{file}
+    \verb PDF:files/111/2018 - Diarrhée aiguë du nourrisson et de l’enfant
+    \verb recommandations d’experts.pdf:application/pdf
+    \endverb
+    \field{journaltitle}{Journal de Pédiatrie et de Puériculture}
+    \field{month}{03}
+    \field{year}{2018}
+    \field{urlday}{12}
+    \field{urlmonth}{11}
+    \field{urlyear}{2024}
+  \endentry
+
+  \entry{ettair_diarrhee_nodate}{article}{}
+    \name{author}{1}{}{%
+      {{hash=ES}{%
+         family={Ettair},
+         familyi={E\bibinitperiod},
+         given={S},
+         giveni={S},
+      }}%
+    }
+    \list{language}{1}{%
+      {fr}%
+    }
+    \strng{namehash}{ES1}
+    \strng{fullhash}{ES1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{E}
+    \field{sortinithash}{E}
+    \field{title}{diarrhée aigue de l’enfant}
+    \verb{file}
+    \verb PDF:files/107/Ettair - diarrhée aigue de l’enfant.pdf:application/
+    \verb pdf
+    \endverb
+  \endentry
+
+  \entry{gagnon_presente_nodate}{article}{}
+    \name{author}{3}{}{%
+      {{hash=GA}{%
+         family={Gagnon},
+         familyi={G\bibinitperiod},
+         given={Alain},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=DBK}{%
+         family={Defo},
+         familyi={D\bibinitperiod},
+         given={Barthelemy\bibnamedelima KUATE},
+         giveni={B\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=LT}{%
+         family={Legrand},
+         familyi={L\bibinitperiod},
+         given={Thomas},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {fr}%
+    }
+    \strng{namehash}{GADBKLT1}
+    \strng{fullhash}{GADBKLT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{abstract}{%
+    This master’s thesis contributes to the identification of factors linked
+  to the occurrence of diarrhoea among children under five years of age in
+  Haiti. Following a review of the literature on predictors of childhood
+  diarrhoea in low-income countries, namely Haiti, we take advantage of four
+  databases from Demographic and Health Surveys (n = 14 481) to conduct our
+  quantitative analyses. Our study is concerned mainly with the impact of
+  improved drinking water, improved sanitations and refrigerator on childhood
+  diarrhoea. We use logistic regression models to assess the robustness of the
+  associations between selected factors and the occurrence of diarrhoea among
+  children under five years of age.%
+    }
+    \field{title}{présenté par : {Isabelle} {ROY}}
+    \verb{file}
+    \verb PDF:files/108/Gagnon et al. - présenté par Isabelle ROY.pdf:applica
+    \verb tion/pdf
+    \endverb
+  \endentry
+
+  \entry{ohale_attitudbs_nodate}{article}{}
+    \name{author}{1}{}{%
+      {{hash=OR}{%
+         family={Ohale},
+         familyi={O\bibinitperiod},
+         given={REHYDRATAnON},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {fr}%
+    }
+    \strng{namehash}{OR1}
+    \strng{fullhash}{OR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{O}
+    \field{sortinithash}{O}
+    \field{title}{{ATTITUDBS} {DES} {lIBRES} {CONCERNANT} {CBS} {IlALADIES}
+  {ET} {LA} {TECHNlQUB} {DE}}
+    \verb{file}
+    \verb PDF:files/103/Ohale - ATTITUDBS DES lIBRES CONCERNANT CBS IlALADIES E
+    \verb T LA TECHNlQUB DE.pdf:application/pdf
+    \endverb
+  \endentry
+
+  \entry{noauthor_principaux_nodate}{article}{}
+    \list{language}{1}{%
+      {fr}%
+    }
+    \field{labeltitlesource}{title}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{title}{Principaux repères sur les maladies diarrhéiques}
+    \verb{file}
+    \verb PDF:files/106/Principaux repères sur les maladies diarrhéiques.pdf:
+    \verb application/pdf
+    \endverb
+  \endentry
+\enddatalist
+\endinput
